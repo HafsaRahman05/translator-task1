@@ -20,4 +20,13 @@ This project demonstrates the use of Google’s **Gemini API** in OpenAI-compati
 - `dotenv` for environment management
 
 
+---
 
+## 📦 Installation
+
+   ```bash
+   pip install openai-agents
+   pip install python-dotenv
+   
+   run
+   python main.py
